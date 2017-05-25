@@ -1,0 +1,13 @@
+# Build directory
+build/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# exe
+*.exe
+*.out
+*.app
